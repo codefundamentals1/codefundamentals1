@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [check_my_portfolio](https://anishfoliobucket1.s3.ap-south-1.amazonaws.com/index.html)
 
-- 📝 I regularly write articles on [####blogLink](####blogLink)
+- 📝 I regularly write articles on [####blogLink](####)
 
 - 💬 Ask me about **DSA, React, Nodejs, Mongo,SQL, Java,javascript, C++, MERN, Figma, vite.js,**
 
 - 📫 How to reach me **anishr888999@gmail.com**
 
-- 📄 Know about my experiences [####experience](####experience)
+- 📄 Know about my experiences [####experience](####)
 
 - ⚡ Fun fact **$ sudo apt get install consistency >>Found vulnerabilites (lol)**
 
